@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linielson" height="30" width="30" /></a> 
 <a href="https://dev.to/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="linielson" height="30" width="30" /></a> 
 <a href="https://stackoverflow.com/users/6316607/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6316607/linielson" height="30" width="30" /></a>
-<a href="https://twitter.com/linielsonr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="linielsonr" height="30" width="30" /></a>
-<a href="https://instagram.com/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="linielson" height="30" width="30" /></a>
-<a href="https://fb.com/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="linielson" height="30" width="30" /></a>
+<!-- <a href="https://twitter.com/linielsonr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="linielsonr" height="30" width="30" /></a> -->
+<!-- <a href="https://instagram.com/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="linielson" height="30" width="30" /></a>
+<a href="https://fb.com/linielson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="linielson" height="30" width="30" /></a> -->
 </p>
