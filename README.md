@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Linielson [Lini] 👨🏻‍💻</h1>
 <h3 align="center">A passionate developer from 🇧🇷</h3>
 
-- 🚀 I have been working in software development for more than 13 years
+- 🚀 I have been working in software development for more than 12 years
 - 🔭 I’m currently working on **Ruby on Rails**, **Javascript** and **React**
 - 🌱 I’m currently learning **Node**
 - ❤️ Lover of Agile (Lean, Kanban, XP, Scrum) and of good development practices (Clean Code, Refactore, TDD)
