@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Linielson [Lini] 👨🏻‍💻</h1>
+<h1 align="center">Hi there 👋, I'm Lini 👨🏻‍💻</h1>
 <h3 align="center">A passionate developer from 🇧🇷</h3>
 
 - 🚀 I have been working in software development for more than 12 years
