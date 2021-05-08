@@ -8,3 +8,4 @@
 - 📚 Bachelor's degree at Computer Science
 - ☕️ <Programmer, a machine that turns coffee into code />
 - 📫 How to reach me: email me at [linielsonrosa@gmail.com](linielsonrosa@gmail.com)
+- 📄 [My resume](https://linielson.github.io/resume)
