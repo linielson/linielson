@@ -3,7 +3,7 @@
 
 - 🚀 I've been working with software development since 2007
 - 🔭 I’m currently working on **Ruby on Rails**, **Javascript** ...
-- 🌱 I’m currently studyng **Go**, **SQS**, **SNS**, **Lambda**, **Microservices**, **CQRS**, **Event Sourcing**, **DDD**, **loading...**
+- 🌱 I'm currently studying **Go**, **SQS**, **SNS**, **Lambda**, **Microservices**, **CQRS**, **Event Sourcing**, **DDD**, **loading...**
 - ❤️ Lover of Agile (Lean, Kanban, XP, Scrum) and of good development practices (Clean Code, Refactore, TDD)
 - 📚 Bachelor's degree at Computer Science
 - ☕️ <Programmer, a machine that turns coffee into code />
