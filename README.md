@@ -7,4 +7,4 @@
 - ❤️ Lover of Agile (Lean, Kanban, XP) and of good development practices (Clean Code, Refactore, TDD)
 - 📚 Bachelor's degree at Computer Science
 - 📫 Email me at [linielsonrosa@gmail.com](linielsonrosa@gmail.com)
-- 📄 [My resume](https://linielson.github.io/resume)
+- 📄 [LinkedIn](https://www.linkedin.com/in/linielson)
