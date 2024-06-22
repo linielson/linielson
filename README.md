@@ -1,7 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Lini 👨🏻‍💻</h1>
-<h3 align="center">A passionate developer from 🇧🇷</h3>
 
-- 🚀 I've been working with software development since 2007
-- 🔭 I’m currently working on **Ruby on Rails**, **Javascript** ...
-- 🌱 I'm currently studying **Go**, **AWS (SQS, SNS, Lambda)**, **Microservices**, **CQRS**, **Event Sourcing**, **DDD** ...**
-- ❤️ Lover of Agile [Lean, Kanban, XP] and of good development practices [Clean Code, Code Refactoring, Tests]
+# Hi there 👋, I'm Lini 👨🏻‍💻
+
+## 🌟 About Me
+I am a passionate developer from Brazil 🇧🇷 with over a decade of experience in software development, starting my journey in 2007. My expertise lies in creating robust and scalable solutions using modern technologies and methodologies.
+
+## 🚀 Current Focus
+- **Programming Languages:** Go
+- **Cloud Services:** AWS (SQS, SNS, Lambda)
+- **Architectural Patterns:** Event Sourcing, Event-Driven Architecture, CQRS, Domain-Driven Design (DDD)
+
+## 💡 Development Philosophy
+I am a strong advocate for Agile methodologies, particularly Lean, Kanban, and Extreme Programming (XP). My development practices emphasize:
+- **Clean Code:** Writing readable and maintainable code
+- **Code Refactoring:** Continuously improving the codebase
+- **Testing:** Ensuring reliability and stability through comprehensive testing
+- **Pair Programming:** Collaboratively solving problems and improving code quality
