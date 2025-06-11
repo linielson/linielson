@@ -5,9 +5,9 @@
 I am a passionate developer from Brazil 🇧🇷 with over a decade of experience in software development, starting my journey in 2007. My expertise lies in creating robust and scalable solutions using modern technologies and methodologies.
 
 ## 🚀 Current Focus
-- **Programming Languages:** Go
-- **Cloud Services:** AWS (SQS, SNS, Lambda)
-- **Architectural Patterns:** Event Sourcing, Event-Driven Architecture, CQRS, Domain-Driven Design (DDD)
+- **Programming Languages:** Go, Ruby
+- **Cloud Services:** AWS (SQS, SNS, Lambda, DynamoDB, S3, Cloudwatch)
+- **Architectural Patterns:** Event Sourcing, Event-Driven Architecture, CQRS, Domain-Driven Design (DDD), Microservices
 
 ## 💡 Development Philosophy
 I am a strong advocate for Agile methodologies, particularly Lean, Kanban, and Extreme Programming (XP). My development practices emphasize:
