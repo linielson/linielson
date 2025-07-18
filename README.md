@@ -13,7 +13,7 @@ Brazilian developer with 15+ years of experience building robust, scalable, and 
 ## Experience
 
 **Back-end**
-- Go, Ruby, Ruby on Rails, Deno
+- Ruby, Ruby on Rails, Go, Deno
 - Modern architectures: DDD, Event Sourcing, Event-Driven, CQRS, Microservices, Serverless
 - RESTful APIs & GraphQL
 - Cloud: AWS (Lambda, SQS, SNS, DynamoDB, S3, Aurora, CloudWatch), PostgreSQL, Redis
