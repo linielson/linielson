@@ -1,58 +1,40 @@
-# Hey, I'm Lini
+# Hey, I'm Lini 👋
 
-### Senior Fullstack Software Engineer
+### Senior Software Engineer · Ruby on Rails · Backend
 
----
+Brazilian engineer with almost 20 years in software and 9+ years with Ruby on Rails. Working remotely with US teams since 2021.
 
-## About Me
-
-Brazilian developer with 15+ years of experience building robust, scalable, and high-quality systems. Passionate about architecture, best practices, and delivering reliable solutions.
+I like reliable systems: clear code, good tests, and production changes with a plan to go back.
 
 ---
 
-## Experience
+## What I'm working on
 
-**Back-end**
-- Ruby, Ruby on Rails, Typescript, Go
-- Modern architectures: DDD, Event Sourcing, Event-Driven, CQRS, Microservices, Serverless
-- RESTful APIs & GraphQL
-- Cloud: AWS (Lambda, SQS, SNS, DynamoDB, S3, Aurora, CloudWatch), Cloudflare, DNSimple, Tailscale
-- Infrastructure as Code: Terraform
-- DB: PostgreSQL, Redis, DynamoDB
-- Feature toggles for progressive delivery
+**[Ledgerly](https://github.com/linielson/ledgerly)**: an open-source invoicing app in Rails 8 for freelancers and small agencies. Installments, payments, refunds, and every cent in an immutable double-entry ledger.
 
-**Front-end**
-- React, Next.js, JavaScript (ES6+)
-- Experience with SPA and SSR applications
-- Efficient integration between front-end and back-end
-
-**Practices & Concepts**
-- Clean Code, SOLID, KISS, DRY, continuous refactoring
-- Design Patterns
-- Automated testing: TDD, BDD, RSpec, Minitest, Jest
-- CI/CD (Continuous Integration & Delivery)
-- Observability: monitoring, logging, tracing
-- Pair programming, code review, active collaboration
-- Agile methodologies: Lean, Kanban, XP
+- Money in integer cents, splits that never lose a cent
+- ADRs for every important decision, issues with a clear Definition of Done
+- 100% branch coverage, CodeQL, AI code review (CodeRabbit)
+- Continuous deploy with Kamal
 
 ---
 
-## AI & Tech Trends
+## Recent work
 
-- Enthusiastic about AI and exploring its integration into real-world products
-- Always coding, experimenting, and learning about the latest in AI, developer tools, and software architecture
-- Studying new trends to stay ahead of the curve and deliver future-ready solutions
-
----
-
-## What Drives Me
-
-- Clean, readable, and sustainable code
-- Scalable and resilient architectures
-- Delivering reliable, high-value software
-- Continuous learning and being part of the next wave of tech innovation
+- **General Assembly:** built an API from scratch in TypeScript on AWS, made reliable with queues, retries and dead-letter queues. Led many production migrations in 2026 (Heroku stack upgrades, Cloudflare WAF, S3 behind a CDN, CI), always with a rollback plan.
+- **InDebted (fintech):** Go on a large event-driven platform. Led PhoneScrub, a compliance feature (TCPA) on 11M+ customer accounts.
 
 ---
 
-**Open to new challenges and opportunities.  
-Let's connect!**
+## Stack
+
+**Backend:** Ruby, Ruby on Rails, TypeScript, Go · Sidekiq · REST APIs · event-driven systems
+**Data:** PostgreSQL, Redis, DynamoDB
+**Cloud:** AWS (Lambda, SQS, SNS, S3, Aurora, CloudWatch), Cloudflare, Heroku, Kamal
+**Frontend:** React, JavaScript, Hotwire (learning in Ledgerly)
+**Testing:** RSpec, Minitest, Jest, TDD
+**AI:** daily agentic workflows with Claude Code: spec first, then plan, then tests. I review and test everything the AI writes.
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/linielson/) · Open to Senior Rails / backend roles (remote).
