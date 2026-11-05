@@ -13,15 +13,16 @@ Brazilian developer with 15+ years of experience building robust, scalable, and 
 ## Experience
 
 **Back-end**
-- Ruby, Ruby on Rails, Go, Deno
+- Ruby, Ruby on Rails, Typescript, Go
 - Modern architectures: DDD, Event Sourcing, Event-Driven, CQRS, Microservices, Serverless
 - RESTful APIs & GraphQL
-- Cloud: AWS (Lambda, SQS, SNS, DynamoDB, S3, Aurora, CloudWatch), PostgreSQL, Redis
+- Cloud: AWS (Lambda, SQS, SNS, DynamoDB, S3, Aurora, CloudWatch), Cloudflare, DNSimple, Tailscale
 - Infrastructure as Code: Terraform
+- DB: PostgreSQL, Redis, DynamoDB
 - Feature toggles for progressive delivery
 
 **Front-end**
-- React, Next.js, JavaScript (ES6+), TypeScript
+- React, Next.js, JavaScript (ES6+)
 - Experience with SPA and SSR applications
 - Efficient integration between front-end and back-end
 
