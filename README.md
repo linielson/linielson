@@ -53,5 +53,3 @@ Ledgerly is also where I sharpen my modern Rails skills and experiment with AI-a
 ## 📫 Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/linielson/) · [Ledgerly](https://github.com/linielson/ledgerly)
-
-Open to international remote opportunities as a **Senior Backend Engineer / Senior Software Engineer**, particularly with Ruby on Rails, Go, and AWS.
