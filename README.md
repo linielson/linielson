@@ -1,40 +1,52 @@
-# Hey, I'm Lini 👋
+Hey, I'm Lini 👋
 
-### Senior Software Engineer · Ruby on Rails · Backend
+Senior Backend Engineer · Ruby on Rails · Go · AWS
 
-Brazilian engineer with almost 20 years in software and 9+ years with Ruby on Rails. Working remotely with US teams since 2021.
+I'm a Brazilian software engineer with nearly 20 years of experience, including 9+ years building production applications with Ruby on Rails. I've worked remotely with international teams since 2021.
 
-I like reliable systems: clear code, good tests, and production changes with a plan to go back.
+I enjoy solving complex backend problems, designing reliable systems, and making production changes with clear testing and rollback strategies.
 
----
+I care about readable code, pragmatic architecture, and understanding the business problems behind technical decisions.
 
-## What I'm working on
+🔨 What I'm building
 
-**[Ledgerly](https://github.com/linielson/ledgerly)**: an open-source invoicing app in Rails 8 for freelancers and small agencies. Installments, payments, refunds, and every cent in an immutable double-entry ledger.
+Ledgerly — an open-source Rails 8.1 project exploring financial-domain modeling, software architecture, and engineering practices.
 
-- Money in integer cents, splits that never lose a cent
-- ADRs for every important decision, issues with a clear Definition of Done
-- 100% branch coverage, CodeQL, AI code review (CodeRabbit)
-- Continuous deploy with Kamal
+The long-term goal is an invoicing application for freelancers and small agencies, with installment payments, refunds, and an immutable double-entry ledger.
 
----
+Current engineering work includes:
 
-## Recent work
+Money and Currency value objects, integer-based monetary calculations, and allocation rules.
 
-- **General Assembly:** built an API from scratch in TypeScript on AWS, made reliable with queues, retries and dead-letter queues. Led many production migrations in 2026 (Heroku stack upgrades, Cloudflare WAF, S3 behind a CDN, CI), always with a rollback plan.
-- **InDebted (fintech):** Go on a large event-driven platform. Led PhoneScrub, a compliance feature (TCPA) on 11M+ customer accounts.
+Authentication, session management, and automated RSpec tests.
 
----
+Architecture Decision Records (ADRs) documenting design choices and trade-offs.
 
-## Stack
+CI checks, automated code review, and deployment workflows with Kamal.
 
-**Backend:** Ruby, Ruby on Rails, TypeScript, Go · Sidekiq · REST APIs · event-driven systems
-**Data:** PostgreSQL, Redis, DynamoDB
-**Cloud:** AWS (Lambda, SQS, SNS, S3, Aurora, CloudWatch), Cloudflare, Heroku, Kamal
-**Frontend:** React, JavaScript, Hotwire (learning in Ledgerly)
-**Testing:** RSpec, Minitest, Jest, TDD
-**AI:** daily agentic workflows with Claude Code: spec first, then plan, then tests. I review and test everything the AI writes.
+Ledgerly is also where I sharpen my modern Rails skills and experiment with AI-assisted software engineering.
 
----
+🚀 Recent engineering work
 
-📫 [LinkedIn](https://www.linkedin.com/in/linielson/) · Open to Senior Rails / backend roles (remote).
+General Assembly — Working across Ruby on Rails applications, backend integrations, and AWS infrastructure. Built a serverless API from scratch using TypeScript, Deno, and AWS, including asynchronous Salesforce integrations. Contributed to production security improvements, CI/CD modernization, and Cloudflare migrations.
+
+InDebted — Developed Go services in an event-driven AWS environment. Led the development of PhoneScrub, a phone validation feature integrating Twilio, asynchronous processing, domain events, and configurable business policies.
+
+🛠️ Technologies
+
+Backend: Ruby, Ruby on Rails, Go, TypeScript, Sinatra, Sidekiq, REST APIs, GraphQL
+
+Data: PostgreSQL, Redis, DynamoDB
+
+Cloud & infrastructure: AWS (Lambda, SQS, SNS, S3, Aurora), Cloudflare, Terraform, Docker, GitHub Actions, Kamal
+
+Architecture & quality: Event-driven systems, Event Sourcing, CQRS, DDD, RSpec, automated testing, CI/CD
+
+AI-assisted engineering: Claude Code, specification-driven workflows, implementation planning, code review, and automated testing. I use AI to accelerate development while keeping ownership of technical decisions and code quality.
+
+📫 Let's connect
+
+LinkedIn · Ledgerly
+
+Open to international remote opportunities as a Senior Backend Engineer / Senior Software Engineer, particularly with Ruby on Rails, Go, and AWS.
+
